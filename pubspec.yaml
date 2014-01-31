@@ -1,0 +1,4 @@
+name: uuidv4
+author: Stefan Fiedler
+version: 0.1.0
+description: Simple UUID v4 generator.
